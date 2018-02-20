@@ -1,4 +1,4 @@
-#Project 2
+# Yahoo! Messenger Clone
 
 First `make`
 
